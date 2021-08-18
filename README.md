@@ -11,6 +11,16 @@ possible to publish the source code used to generate the TeX files, as it
 depends on the Nachlass XML data of the Wittgenstein Archives Bergen, which are
 not publicly released.)
 
+## Examples
+
+### Remarks on the Foundations of Mathematics - Part II:
+
+<img width="803" alt="Visualization of RFM II" src="https://user-images.githubusercontent.com/358580/129924484-6235a0c1-b700-471c-82b1-88b9511029b4.png">
+
+### Remarks on the Foundations of Mathematics - Part V:
+
+<img width="804" alt="Visualization of RFM V" src="https://user-images.githubusercontent.com/358580/129924558-b7e112bf-289f-456b-a0ca-ee8f1e54f020.png">
+
 ## What Counts as a "Work" by Wittgenstein?
 
 The “works” of Wittgenstein that were published after his death by the three
